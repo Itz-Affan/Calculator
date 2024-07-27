@@ -1,0 +1,16 @@
+* {
+    padding:0;
+    margin:0;
+}
+.Class1 {
+    background-color: #262626;
+    width:400px;
+    height:600px;
+}
+input {
+    background-color: #333333;
+    width:400px;
+    height:80px;
+    border: none;
+}
+
